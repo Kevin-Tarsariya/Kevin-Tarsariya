@@ -23,7 +23,7 @@
 ### 🌐 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/kevin-tarsariya/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://camo.githubusercontent.com/bd4111e83b2f1cc0d8bd771280353e4eb7e0e6408de2eb749aee4a740343cd7c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="LinkedIn" width="40px" height="40px" data-canonical-src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;">
   </a>
 </p>
 
@@ -62,7 +62,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   </a> 
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+    <img src="https://t4.ftcdn.net/jpg/03/76/69/09/360_F_376690946_XlA0WvdDsf4EQAYTD74uDoCPVU5zPHjm.jpg" alt="Photoshop" width="40" height="40"/>
   </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
