@@ -14,7 +14,7 @@
 
 ### 🚀 About Me:
 - 🔭 I’m currently **Studying Bachelor of Computer Applications**
-- 💻 Visit My Portfolio: [kportfolio1.netlify.app](https://kportfolio1.netlify.app)
+- 💻 Visit My Portfolio: [kportfolio1.netlify.app](https://kportfolio.netlify.app)
 - 💬 Ask me about **Your Queries ❓**
 - 📫 How to reach me: [GitHub Profile](https://github.com/Kevin-Tarsariya)
 
