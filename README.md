@@ -78,6 +78,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kevin-tarsariya&show_icons=true&locale=en" alt="Kevin's GitHub Stats"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin-tarsariya&" alt="Kevin's GitHub Streak"/>
-</p>](https://github.com/Kevin-Tarsariya/Kevin-Tarsariya/blob/main/README.md?plain=1)
