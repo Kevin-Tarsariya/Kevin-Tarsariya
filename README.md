@@ -71,7 +71,7 @@
 
 ---
 
-[### 📊 GitHub Stats:
+📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin-tarsariya&show_icons=true&locale=en&layout=compact" alt="Kevin's Top Languages"/>
 </p>
