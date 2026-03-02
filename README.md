@@ -102,6 +102,4 @@
 
 📊 GitHub Stats:
 
-### 📊 My GitHub Streak Stats
-
 [![Kevin Tarsariya's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Kevin-Tarsariya&theme=dark&hide_border=false)](https://nirzak-streak-stats.vercel.app/?user=Kevin-Tarsariya&theme=dark&hide_border=false)
