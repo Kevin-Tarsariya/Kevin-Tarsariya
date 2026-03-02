@@ -101,9 +101,7 @@
 <hr>
 
 📊 GitHub Stats:
-[<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin-tarsariya&show_icons=true&locale=en&layout=compact" alt="Kevin's Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin-tarsariya&show_icons=true&locale=en" alt="Kevin's GitHub Stats"/>
-</p>](https://nirzak-streak-stats.vercel.app/?user=Kevin-Tarsariya&theme=dark&hide_border=false)
+
+### 📊 My GitHub Streak Stats
+
+[![Kevin Tarsariya's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Kevin-Tarsariya&theme=dark&hide_border=false)](https://nirzak-streak-stats.vercel.app/?user=Kevin-Tarsariya&theme=dark&hide_border=false)
