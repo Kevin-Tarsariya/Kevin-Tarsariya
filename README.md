@@ -29,73 +29,43 @@
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="center">  
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">         
-    <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> 
-  </a> 
+<!-- Frontend -->
+<h4 align="center">🎨 Frontend</h4>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/></a>
+  <a href="#"><img src="https://v3.tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
+</p>
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> 
-  </a>
+<!-- Backend -->
+<h4 align="center">⚙️ Backend</h4>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=express" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=c" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=py" width="40"/></a>
+</p>
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> 
-  </a> 
+<!-- Database -->
+<h4 align="center">🗄️ Database</h4>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="40"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
+</p>
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  </a>
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-
-   <a href="https://v3.tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://v3.tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" />
-  </a> 
-
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40" />
-  </a>
-
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
-  </a>
-
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
-  </a>
-  
+<!-- Tools -->
+<h4 align="center">🛠️ Tools</h4>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="40"/></a>
 </p>
 
 <hr>
