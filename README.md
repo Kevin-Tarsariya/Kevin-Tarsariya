@@ -1,31 +1,30 @@
 ![logi](https://github.com/Kevin-Tarsariya/Kevin-Tarsariya/blob/main/Github%20Kevin%20Profile.png)
-<h1 align="center">Hi 👋, I'm Kevin Tarsariya</h1>
-<h3 align="center">BCA Student at Vivekanand College for Advanced Computer and Information Science</h3>
+	
+# Hi 👋, I'm Kevin Tarsariya
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN20yeWJ4aDQ2Z3E3N2F2aG5wMGlwcWdmbXVjOWRhN21qcGV5djFmbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" width="400"/>
-</p>
+- 🔭 I'm currently working on **MERN Stack projects (MongoDB, Express.js, React, Node.js) **
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevin-tarsariya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+- 🌱 I'm currently learning **New Web Technology **
 
----
+- 👯 I'm looking to collaborate on **👯 I am looking to collaborate on full-stack web applications and open-source projects**
 
-### 🚀 About Me:
-- 🔭 I’m currently **Studying Bachelor of Computer Applications**
-- 💻 Visit My Portfolio: [https://mrkportfolio.netlify.app/](https://mrkportfolio.netlify.app/)
-- 💬 Ask me about **Your Queries ❓**
-- 📫 How to reach me: [GitHub Profile](https://github.com/Kevin-Tarsariya)
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, and web development**
 
----
+- 📫 How to reach me **kevintarsariya913@gmail.com**
 
-### 🌐 Connect with Me:
+- ⚡ Fun fact **I enjoy turning ideas into real-world web applications 🚀**
+
+- 👨‍💻 All of my projects are available at **[https://mr-k-portfolio.vercel.app/](https://mr-k-portfolio.vercel.app/)**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/kevin-tarsariya/" target="_blank">
-    <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-hero-logo-dsk-v01.png/jcr:content/renditions/brandg-linkedinlogo-hero-logo-dsk-v01-2x.png" alt="LinkedIn" width="40px" height="40px" data-canonical-src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;">
-  </a>
+<a href="https://github.com/Kevin-Tarsariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Kevin-Tarsariya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kevin-tarsariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-tarsariya" height="30" width="40" /></a>
 </p>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kevin-Tarsariya&label=Profile views&color=0e75b6&style=flat" alt="Kevin-Tarsariya" /> </p>
 
 ---
 
@@ -70,6 +69,7 @@
 
 <hr>
 
-📊 GitHub Stats:
-
-[![Kevin Tarsariya's GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Kevin-Tarsariya&theme=dark&hide_border=false)](https://nirzak-streak-stats.vercel.app/?user=Kevin-Tarsariya&theme=dark&hide_border=false)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Kevin-Tarsariya&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Kevin-Tarsariya&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kevin-Tarsariya&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
