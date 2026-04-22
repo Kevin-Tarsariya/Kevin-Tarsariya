@@ -30,7 +30,7 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">  
+<p align="center">  
 
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
       <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> 
